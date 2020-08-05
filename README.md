@@ -1,4 +1,4 @@
-# Run Buddy, Inc blue
+# Run Buddy, Inc blue red
 
 ## Purpose
 A website that offers fitness training services.
