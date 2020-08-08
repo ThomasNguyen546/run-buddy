@@ -297,19 +297,19 @@ section {
 }
 /*  MISSING PICTURES FOR SOME REASON */
 .trainer-1 {
-    background-image: url("/assets/images/trainer-1.jpg");
+    background-image: url("../images/trainer-1.jpg");
     background-size: cover;
     overflow: hidden;
 }
 
 .trainer-2 {
-    background-image: url("/assets/images/trainer-2.jpg");
+    background-image: url("../images/trainer-2.jpg");
     background-size: cover;
     overflow: hidden;
 }
 
 .trainer-3 {
-    background-image: url("/assets/images/trainer-3.jpg");
+    background-image: url("../images/trainer-3.jpg");
     background-size: cover;
     overflow: hidden;
 }
